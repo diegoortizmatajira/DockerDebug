@@ -1,0 +1,17 @@
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/docker-compose.debug.yml
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/docker-compose.yml
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/Dockerfile
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/Dockerfile.debug
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/libhostpolicy.so
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/libhostfxr.so
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/DockerDebug
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/DockerDebug.deps.json
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/DockerDebug.runtimeconfig.json
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/DockerDebug.runtimeconfig.dev.json
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/DockerDebug.dll
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/bin/debug/netcoreapp2.0/debian.8-x64/DockerDebug.pdb
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/obj/debug/netcoreapp2.0/debian.8-x64/DockerDebug.csproj.CoreCompileInputs.cache
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/obj/debug/netcoreapp2.0/debian.8-x64/DockerDebug.AssemblyInfoInputs.cache
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/obj/debug/netcoreapp2.0/debian.8-x64/DockerDebug.AssemblyInfo.cs
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/obj/debug/netcoreapp2.0/debian.8-x64/DockerDebug.dll
+/home/diegoortizmatajira/Código/Sandbox/DockerDebug/obj/debug/netcoreapp2.0/debian.8-x64/DockerDebug.pdb

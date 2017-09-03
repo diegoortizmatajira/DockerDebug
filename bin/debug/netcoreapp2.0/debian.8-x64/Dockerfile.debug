@@ -1,0 +1,12 @@
+FROM microsoft/dotnet:2.0.0-sdk
+ENV NUGET_XMLDOC_MODE skip
+ARG CLRDBG_VERSION=VS2015U2
+WORKDIR /clrdbg
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        unzip \
+    && rm -rf /var/lib/apt/lists/* \
+    && curl -sSL https://aka.ms/getvsdbgsh | bash /dev/stdin -v latest -l /vsdbg
+WORKDIR /app
+ENTRYPOINT ["/bin/bash", "-c", "if [ -z \"$REMOTE_DEBUGGING\" ]; then dotnet DockerDebug.dll; else sleep infinity; fi"]
+COPY . /app
